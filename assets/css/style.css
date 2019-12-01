@@ -14,6 +14,12 @@ background-color: #637588;
     background-color: #8186d5;
 }
 
+.bg-color-contact{
+
+    background-color: #fff;
+    
+}
+
 .bg-color-personal-info{
     background-color: #f4f4f4;
 }
@@ -350,4 +356,43 @@ vertical-align: top;
 
 .history-items{
     margin-bottom: 30px;
+}
+
+/*----------------------------------------- Contact form---------------------------------*/
+
+.contact-heading{
+
+    font-family: "Exo" , sans-serif;
+    font-weight:300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-from{
+
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width:70%;
+}
+
+button[type="submit"] {
+
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+
+/*----------------------------------------- Media Queries---------------------------------*/
+
+@media(min-width:992px) {
+
+    .center-from{
+
+    padding-top: 30px;
+    min-height:240px;
+    margin: 0 auto;
+    max-width:50%;
+}
 }
