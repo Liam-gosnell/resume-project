@@ -5,6 +5,16 @@
 background-color: #637588;
 }
 
+.ui-menu-color-github{
+    background-color: #010a43;
+}
+
+div#map {min-height: 360px;}
+
+.ui-menu-color-interests{
+    background-color: #ffa41b;
+}
+
 .bg-color-three-reasons{
     background-color: #fff;
 
@@ -38,7 +48,7 @@ background-color: #637588;
     
 }
 .ui-menu-color-download{
-    background-color: #f67280;
+    background-color: #ff2e63;
     
 }
 /*----------------------------------------- Special paddings/margins/texts---------------------------------*/
