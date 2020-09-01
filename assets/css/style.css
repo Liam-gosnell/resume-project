@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /*----------------------------------------- Colours---------------------------------*/
+
 .bg-color-name-title{
-background-color: #637588;
+background-color: #1e1f24;
 }
+
+
 
 .ui-menu-color-github{
     background-color: #010a43;
@@ -55,6 +58,11 @@ div#map {min-height: 360px;}
 
 h1,h2,h3,h4{
     margin:0;
+}
+
+.heading-projects{
+        margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .uppercase{
@@ -188,7 +196,7 @@ margin:0;
 /*----------------------------------------- Footer---------------------------------*/
 
 footer{
-    background-color: #637588;
+    background-color: #1e1f24;
     color:#fafafa;
     min-height: 120px;
     margin:0;
